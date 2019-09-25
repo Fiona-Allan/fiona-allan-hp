@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Content Redakteurin,
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Texterin, Übersetzerin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Als selbstständige Content Redakteurin schlage ich die Brücke zwischen Unternehmen und Kunden. Ich beschreibe Leistungen, informiere über Hintergründe und erkläre, wie etwas funktioniert. In Webtexten, Newslettern, Social Media-Beiträgen und Presseberichten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Darüber hinaus biete ich mein Know-How rund um das Schreiben als Unterstützung an: Lektorat und Korrektur geben bereits feststehenden Inhalten den letzten Schliff und ich gebe Tipps, wie Sie eigene Texte besser schreiben können.
+
+Durch meine Zweisprachigkeit kann ich all diese Leistungen sowohl auf Deutsch
+als auch auf Englisch anbieten und kann auch für Übersetzungen herangezogen werden.
