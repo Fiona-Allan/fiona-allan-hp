@@ -20,22 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +30,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:fiona@fiona-allan.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: xing
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.xing.com/profile/Fiona_Allan/cv
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/feed/?trk=onboarding-landing
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,7 +56,7 @@ user_groups:
 - Visitors
 ---
 
-Als selbstständige Content Redakteurin schlage ich die Brücke zwischen Unternehmen und Kunden. Ich beschreibe Leistungen, informiere über Hintergründe und erkläre, wie etwas funktioniert. In Webtexten, Newslettern, Social Media-Beiträgen und Presseberichten.
+Als Content Redakteurin schlage ich die Brücke zwischen Unternehmen und ihren Kunden. Ich beschreibe Leistungen, informiere über Hintergründe und erkläre, wie etwas funktioniert. In Webtexten, Newslettern, Social Media-Beiträgen und Presseberichten.
 
 Darüber hinaus biete ich mein Know-How rund um das Schreiben als Unterstützung an: Lektorat und Korrektur geben bereits feststehenden Inhalten den letzten Schliff und ich gebe Tipps, wie Sie eigene Texte besser schreiben können.
 
