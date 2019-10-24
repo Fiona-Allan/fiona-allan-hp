@@ -1,0 +1,46 @@
+{
+  "title": "Leistungen",
+  "description": "Das kann ich",
+  "content": [
+    {
+      "icon": "at",
+      "title": "Websitekonzepte und -texte",
+      "description": "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+    },
+    {
+      "icon": "hashtag",
+      "title": "Social Media-Inhalte",
+      "description": "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+    },
+    {
+      "icon": "blog",
+      "title": "Blogartikel",
+      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+    },
+    {
+      "icon": "envelope-open-text",
+      "title": "Newsletter",
+      "description": "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+    },
+    {
+      "icon": "newspaper",
+      "title": "Presseberichte und -reportagen",
+      "description": "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Online-Tutorials",
+      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+    },
+    {
+      "icon": "book",
+      "title": "Technische Dokumentation",
+      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+    },
+    {
+      "icon": "globe",
+      "title": "Übersetzungen Deutsch/Englisch",
+      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+    }
+  ]
+}

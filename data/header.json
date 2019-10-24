@@ -1,0 +1,18 @@
+{
+  "brand": "Fiona Allan",
+  "logo": "logo_kreis.png",
+  "links": [
+    {
+      "title": "Start",
+      "href": "/"
+    },
+    {
+      "title": "Leistungen",
+      "href": "/#features"
+    },
+    {
+      "title": "Kontakt",
+      "href": "/#contact"
+    }
+  ]
+}
