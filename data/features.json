@@ -1,46 +1,36 @@
 {
   "title": "Leistungen",
-  "description": "Das kann ich",
+  "description": "Dabei kann ich helfen:",
   "content": [
     {
       "icon": "at",
-      "title": "Websitekonzepte und -texte",
-      "description": "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+      "title": "Online-Werbetexte",
+      "description": "Auf Ihrer Website möchten Sie Ihr Angebot ansprechend präsentieren und Kunden zu einer Handlung veranlassen. Ich übernehme den Content für Sie und schreibe treffsichere Texte."
     },
     {
       "icon": "hashtag",
-      "title": "Social Media-Inhalte",
-      "description": "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+      "title": "Tutorials & Screencasts",
+      "description": "Ihr Produkt ist nicht ganz einfach zu verstehen und Sie möchten Ihren Kunden nützliche Tutorials an die Hand geben? Als studierte Technische Redakteurin erstelle ich für Sie Tutorials und Hilfen jeder Art."
     },
     {
       "icon": "blog",
-      "title": "Blogartikel",
-      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "title": "Content- & Social Media Strategy",
+      "description": "Sie möchten Ihre Themen an den Kunden bringen, wissen aber nicht, wie? Ich kann helfen, eine Strategie zu entwickeln, mit der Sie die richtigen Menschen auf Ihre Kanäle bringen."
     },
     {
       "icon": "envelope-open-text",
-      "title": "Newsletter",
-      "description": "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+      "title": "Blogartikel & Newsletter",
+      "description": "Mit Ihrem Unternehmensblog oder einem informativen Newsletter beweisen Sie Expertise auf Ihrem Gebiet und locken mehr Interessenten auf Ihre Website. Ich helfe dabei, die für Sie wichtigen Themen zielgruppengerecht aufzubereiten."
     },
     {
       "icon": "newspaper",
-      "title": "Presseberichte und -reportagen",
-      "description": "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+      "title": "Pressetexte",
+      "description": "Sie möchten in der Öffentlichkeit im Gespräch bleiben? Ich schreibe gut strukturierte Presseberichte und Reportagen, die die Aufmerksamkeit auf Sie lenken."
     },
     {
       "icon": "graduation-cap",
-      "title": "Online-Tutorials",
-      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
-    },
-    {
-      "icon": "book",
-      "title": "Technische Dokumentation",
-      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
-    },
-    {
-      "icon": "globe",
-      "title": "Übersetzungen Deutsch/Englisch",
-      "description": "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "title": "Übersetzungen & englische Texte",
+      "description": "Last but not least kann ich als Englisch-Muttersprachlerin auch mit englischen Texten behilflich sein oder deutsche Texte ins Englische übersetzen."
     }
   ]
 }

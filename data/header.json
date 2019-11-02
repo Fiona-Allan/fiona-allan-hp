@@ -11,6 +11,10 @@
       "href": "/#features"
     },
     {
+      "title": "Über mich",
+      "href": "/me"
+    },
+    {
       "title": "Kontakt",
       "href": "/#contact"
     }

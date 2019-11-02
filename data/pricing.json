@@ -1,0 +1,17 @@
+{
+  "title": "Meine Stärken",
+  "content": [
+    {
+      "title": "Technische Texte",
+      "features": ["Ich bringe komplexe Themen auf den Punkt."]
+    },
+    {
+      "title": "Zielgruppenorientierung",
+      "features": ["Dabei verliere ich nie das Ziel vor Augen: den Leser."]
+    },
+    {
+      "title": "Strategie",
+      "features": ["Und vergesse nie das Große Ganze – Ihre Content-Strategie."]
+    }
+  ]
+}
