@@ -1,3 +1,4 @@
 {
-  "components": ["cover", "features", "pricing", "contact"]
+  "components": ["cover", "features", "pricing", "blog", "contact"],
+  "googleAnalytics": "UA-1147XXXXX-1"
 }
