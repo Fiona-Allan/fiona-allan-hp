@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>
+ 			{{- .Title -}} {{- if ne .Title .Site.Title -}}&nbsp;&middot;&nbsp;{{- .Site.Title -}}{{- end -}}
+    </title>
+    <meta charset="utf-8">
+    <link rel="canonical" href="{{- .Permalink -}}">
+    <meta name="robots" content="index,follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Gothic+A1:700" rel="stylesheet">
+    <link href="{{- "favicon.png" | absURL -}}" rel="icon" />
+
+    <!-- og -->
+    <meta name="og:title" content="{{- .Title -}}"/>
+    <meta name="og:url" content="{{- .Permalink -}}"/>
+    {{- if .Params.featuredimage -}}
+    <meta name="og:image" content="{{- .Params.featuredimage | absURL -}}"/>
+    {{- end -}}
+    {{- if .Params.description -}}
+    <meta name="og:description" content="{{- .Params.description -}}"/>
+    {{- end -}}
+    <meta name="og:site_name" content="{{- .Site.Title -}}"/>
+
+    <!-- Styles -->
+    {{- $options := (dict "targetPath" "static/css/style.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "node_modules/myscss")) -}}
+    {{- $sass := resources.Get "scss/bootstrap.scss" -}}
+    {{- $style := $sass | resources.ToCSS $options -}}
+    <!-- including bootstrap -->
+		<link rel="stylesheet" type="text/css" href="{{- $style.Permalink -}}">
+    <link rel="stylesheet" href="{{.Site.BaseURL}}css/highlight.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    
+  </head>
+  <body>
+    
