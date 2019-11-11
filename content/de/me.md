@@ -1,6 +1,10 @@
 ---
-title: Über mich
+title: Fiona Allan
+description: Texterin und Technische Redakteurin
 ---
+
+## Über mich
+
 Ich helfe IT-Unternehmen bei der Erstellung von Content.
 
 Sie möchten Ihre Produkte und Dienstleistungen

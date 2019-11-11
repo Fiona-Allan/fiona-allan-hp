@@ -1,6 +1,7 @@
-+++
-+++
-# Datenschutzerklärung
+---
+title: Datenschutzerklärung
+description:
+---
 
 Die nachfolgende Datenschutzerklärung gilt für die Nutzung meines Online-Angebots www.fiona-
 allan.de (nachfolgend „Website“).
@@ -44,17 +45,17 @@ Ihrem
 Computer oder Mobilgerät. Wir erheben, speichern und nutzen Daten über jeden Zugriff auf unsere
 Website (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören:
 
-* Name und URL der abgerufenen Datei
-* Datum und Uhrzeit des Abrufs
-* übertragene Datenmenge
-* Meldung über erfolgreichen Abruf (HTTP response code)
-* Browsertyp und Browserversion
-* Betriebssystem
-* Referer URL (d.h. die zuvor besuchte Seite)
-* Websites, die vom System des Nutzers über unsere Website aufgerufen werden
-* Internet-Service-Provider des Nutzers
-* IP-Adresse und der anfragende Provider
-  
+- Name und URL der abgerufenen Datei
+- Datum und Uhrzeit des Abrufs
+- übertragene Datenmenge
+- Meldung über erfolgreichen Abruf (HTTP response code)
+- Browsertyp und Browserversion
+- Betriebssystem
+- Referer URL (d.h. die zuvor besuchte Seite)
+- Websites, die vom System des Nutzers über unsere Website aufgerufen werden
+- Internet-Service-Provider des Nutzers
+- IP-Adresse und der anfragende Provider
+
 Wir nutzen diese Protokolldaten ohne Zuordnung zu Ihrer Person oder sonstiger Profilerstellung für
 statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung unserer
 Website, aber auch zur anonymen Erfassung der Anzahl der Besucher auf unserer Website (traffic)
@@ -98,24 +99,25 @@ Seite anzeigen.
 Unser berechtigtes Interesse an der Nutzung der Cookies gemäß Art 6 Abs. 1 S. 1 f) DSGVO liegt
 darin, unsere Website nutzerfreundlicher, effektiver und sicherer zu machen.
 In den Cookies werden etwa folgende Daten und Informationen gespeichert:
+
 - Log-In-Informationen
 - Spracheinstellungen
 - eingegebene Suchbegriffe
 - Informationen über die Anzahl der Aufrufe unserer Website sowie Nutzung einzelner
-Funktionen unseres Internetauftritts.
-Bei Aktivierung des Cookies wird diesem eine Identifikationsnummer zugewiesen und eine
-Zuordnung
-Ihrer personenbezogenen Daten zu dieser Identifikationsnummer wird nicht vorgenommen. Ihr
-Name,
-Ihre IP-Adresse oder ähnliche Daten, die eine Zuordnung des Cookies zu Ihnen ermöglichen
-würden,
-werden nicht in den Cookie eingelegt. Auf Basis der Cookie-Technologie erhalten wir lediglichpseudonymisierte Informationen, beispielsweise darüber, welche Seiten unseres Shops besucht
-wurden, welche Produkte angesehen wurden, etc.
-Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies vorab informiert
-werden und im Einzelfall entscheiden können, ob Sie die Annahme von Cookies für bestimmte
-Fälle
-oder generell ausschließen, oder dass Cookies komplett verhindert werden. Dadurch kann die
-Funktionalität der Website eingeschränkt werden.
+  Funktionen unseres Internetauftritts.
+  Bei Aktivierung des Cookies wird diesem eine Identifikationsnummer zugewiesen und eine
+  Zuordnung
+  Ihrer personenbezogenen Daten zu dieser Identifikationsnummer wird nicht vorgenommen. Ihr
+  Name,
+  Ihre IP-Adresse oder ähnliche Daten, die eine Zuordnung des Cookies zu Ihnen ermöglichen
+  würden,
+  werden nicht in den Cookie eingelegt. Auf Basis der Cookie-Technologie erhalten wir lediglichpseudonymisierte Informationen, beispielsweise darüber, welche Seiten unseres Shops besucht
+  wurden, welche Produkte angesehen wurden, etc.
+  Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies vorab informiert
+  werden und im Einzelfall entscheiden können, ob Sie die Annahme von Cookies für bestimmte
+  Fälle
+  oder generell ausschließen, oder dass Cookies komplett verhindert werden. Dadurch kann die
+  Funktionalität der Website eingeschränkt werden.
 
 ### 3.4 E-Mail Kontakt
 
@@ -193,25 +195,26 @@ personenbezogene Daten verarbeitet werden. Ist dies der Fall, so haben Sie das R
 unentgeltliche Auskunft über die zu Ihnen gespeicherten personenbezogenen Daten nebst einer
 Kopie
 dieser Daten zu verlangen. Des Weiteren besteht ein Recht auf folgende Informationen:
+
 1. die Verarbeitungszwecke;
 2. die Kategorien personenbezogener Daten, die verarbeitet werden;
 3. die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen
-Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern
-in Drittländern oder bei internationalen Organisationen;
+   Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern
+   in Drittländern oder bei internationalen Organisationen;
 4. falls möglich, die geplante Dauer, für die die personenbezogenen Daten gespeichert werden,
-oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer;
+   oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer;
 5. das Bestehen eines Rechts auf Berichtigung oder Löschung der Sie betreffenden
-personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den
-Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
+   personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den
+   Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
 6. das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
 7. wenn die personenbezogenen Daten nicht bei Ihnen erhoben werden, alle verfügbaren
-Informationen über die Herkunft der Daten;8. das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art.
-22 Abs. 1 und 4 DSGVO und – zumindest in diesen Fällen – aussagekräftige Informationen
-über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer
-derartigen Verarbeitung für Sie.
-Werden personenbezogene Daten an ein Drittland oder an eine internationale Organisation
-übermittelt, so haben Sie das Recht, über die geeigneten Garantien gemäß Art. 46 DSGVO im
-Zusammenhang mit der Übermittlung unterrichtet zu werden.
+   Informationen über die Herkunft der Daten;8. das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art.
+   22 Abs. 1 und 4 DSGVO und – zumindest in diesen Fällen – aussagekräftige Informationen
+   über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer
+   derartigen Verarbeitung für Sie.
+   Werden personenbezogene Daten an ein Drittland oder an eine internationale Organisation
+   übermittelt, so haben Sie das Recht, über die geeigneten Garantien gemäß Art. 46 DSGVO im
+   Zusammenhang mit der Übermittlung unterrichtet zu werden.
 
 ### 5.2 Recht auf Berichtigung
 
@@ -232,26 +235,27 @@ Sie haben gemäß Art. 17 Abs. 1 DSGVO das Recht, von uns zu verlangen, dass Sie
 personenbezogene Daten unverzüglich gelöscht werden, und wir sind verpflichtet,
 personenbezogene
 Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft:
+
 1. Die personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige
-Weise verarbeitet wurden, nicht mehr notwendig.
+   Weise verarbeitet wurden, nicht mehr notwendig.
 2. Sie widerrufen Ihre Einwilligung, auf die sich die Verarbeitung gemäß Art. 6 Abs. 1 S. 1 a)
-DSGVO oder Art. 9 Abs. 2 a) DSGVO stützte, und es fehlt an einer anderweitigen
-Rechtsgrundlage für die Verarbeitung.
+   DSGVO oder Art. 9 Abs. 2 a) DSGVO stützte, und es fehlt an einer anderweitigen
+   Rechtsgrundlage für die Verarbeitung.
 3. Sie legen gemäß Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es
-liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen
-gemäß Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
+   liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen
+   gemäß Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
 4. Die personenbezogenen Daten wurden unrechtmäßig verarbeitet.
 5. Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung
-nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem wir unterliegen.
+   nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem wir unterliegen.
 6. Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der
-Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
-Haben wir die personenbezogenen Daten öffentlich gemacht und sind wir gemäß Art. 17 Abs. 1
-DSGVO zu deren Löschung verpflichtet, so treffen wir unter Berücksichtigung der verfügbaren
-Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um
-für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber
-zu
-informieren, dass Sie von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder
-von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
+   Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
+   Haben wir die personenbezogenen Daten öffentlich gemacht und sind wir gemäß Art. 17 Abs. 1
+   DSGVO zu deren Löschung verpflichtet, so treffen wir unter Berücksichtigung der verfügbaren
+   Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um
+   für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber
+   zu
+   informieren, dass Sie von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder
+   von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
 
 ### 5.4 Recht auf Einschränkung der Verarbeitung
 
@@ -259,17 +263,18 @@ In einer Reihe von Fällen sind Sie berechtigt, von uns eine Einschränkung der 
 personenbezogenen Daten zu verlangen.Im Einzelnen:
 Sie haben das Recht, von uns die Einschränkung der Verarbeitung zu verlangen, wenn eine der
 folgenden Voraussetzungen gegeben ist:
+
 1. die Richtigkeit der personenbezogenen Daten wird von Ihnen bestritten, und zwar für eine
-Dauer, die es uns ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen,
+   Dauer, die es uns ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen,
 2. die Verarbeitung unrechtmäßig ist und Sie die Löschung der personenbezogenen Daten
-ablehnten und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten
-verlangt haben;
+   ablehnten und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten
+   verlangt haben;
 3. wir die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigen,
-Sie die Daten jedoch zur Geltendmachung, Ausübung oder Verteidigung von
-Rechtsansprüchen benötigen, oder
+   Sie die Daten jedoch zur Geltendmachung, Ausübung oder Verteidigung von
+   Rechtsansprüchen benötigen, oder
 4. Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben,
-solange noch nicht feststeht, ob die berechtigten Gründe unseres Unternehmens gegenüber
-den Ihren überwiegen.
+   solange noch nicht feststeht, ob die berechtigten Gründe unseres Unternehmens gegenüber
+   den Ihren überwiegen.
 
 ### 5.5 Recht auf Datenübertragbarkeit
 
@@ -281,12 +286,13 @@ haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalt
 das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu
 übermitteln,
 sofern
+
 1. die Verarbeitung auf einer Einwilligung gemäß Art. 6 Abs. 1 S. 1 a) DSGVO oder Art. 9 Abs. 2
-a) DSGVO oder auf einem Vertrag gemäß Art. 6 Abs. 1 S. 1 b) DSGVO beruht und
+   a) DSGVO oder auf einem Vertrag gemäß Art. 6 Abs. 1 S. 1 b) DSGVO beruht und
 2. die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
-Bei der Ausübung Ihres Rechts auf Datenübertragbarkeit gemäß Absatz 1 haben Sie das Recht, zu
-erwirken, dass die personenbezogenen Daten direkt von uns einem anderen Verantwortlichen
-übermittelt werden, soweit dies technisch machbar ist.
+   Bei der Ausübung Ihres Rechts auf Datenübertragbarkeit gemäß Absatz 1 haben Sie das Recht, zu
+   erwirken, dass die personenbezogenen Daten direkt von uns einem anderen Verantwortlichen
+   übermittelt werden, soweit dies technisch machbar ist.
 
 ### 5.6 Widerspruchsrecht
 
