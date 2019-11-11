@@ -8,17 +8,17 @@
       "description": "Auf Ihrer Website möchten Sie Ihr Angebot ansprechend präsentieren und Kunden zu einer Handlung veranlassen. Ich übernehme den Content für Sie und schreibe treffsichere Texte."
     },
     {
-      "icon": "hashtag",
+      "icon": "graduation-cap",
       "title": "Tutorials & Screencasts",
       "description": "Ihr Produkt ist nicht ganz einfach zu verstehen und Sie möchten Ihren Kunden nützliche Tutorials an die Hand geben? Als studierte Technische Redakteurin erstelle ich für Sie Tutorials und Hilfen jeder Art."
     },
     {
-      "icon": "blog",
+      "icon": "hashtag",
       "title": "Content- & Social Media Strategy",
       "description": "Sie möchten Ihre Themen an den Kunden bringen, wissen aber nicht, wie? Ich kann helfen, eine Strategie zu entwickeln, mit der Sie die richtigen Menschen auf Ihre Kanäle bringen."
     },
     {
-      "icon": "envelope-open-text",
+      "icon": "blog",
       "title": "Blogartikel & Newsletter",
       "description": "Mit Ihrem Unternehmensblog oder einem informativen Newsletter beweisen Sie Expertise auf Ihrem Gebiet und locken mehr Interessenten auf Ihre Website. Ich helfe dabei, die für Sie wichtigen Themen zielgruppengerecht aufzubereiten."
     },
@@ -28,7 +28,7 @@
       "description": "Sie möchten in der Öffentlichkeit im Gespräch bleiben? Ich schreibe gut strukturierte Presseberichte und Reportagen, die die Aufmerksamkeit auf Sie lenken."
     },
     {
-      "icon": "graduation-cap",
+      "icon": "globe",
       "title": "Übersetzungen & englische Texte",
       "description": "Last but not least kann ich als Englisch-Muttersprachlerin auch mit englischen Texten behilflich sein oder deutsche Texte ins Englische übersetzen."
     }
